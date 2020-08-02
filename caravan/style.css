@@ -15,7 +15,7 @@ a {
   clear: both;
 }
 
-header, nav, h2, footer {
+header, nav, h2, .main-visual, footer {
   font-family: Chalkduster, "Bradley Han", Courier, "Segoe Print", sans-serif;
 }
 
